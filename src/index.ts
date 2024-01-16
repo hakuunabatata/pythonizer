@@ -39,7 +39,3 @@ export const pythonizeObject = (object: any): any =>
             {} as any,
           )
     : object
-
-const a = pythonizeKey('Um ninho de MalfagáfosÇomSeteMALFAGAFINHOS')
-
-console.log(a)
